@@ -24,9 +24,9 @@ The machine has **6 rows and 4 columns** (24 slots total), and each slot can hol
 ## How to Run
 
     javac *.java
-    java -cp . Main Product.txt Purchase.txt GMMOutput.txt
-
-Three arguments must be provided in this order: product file, purchase file, output file.
+    java -cp . Main Product_1.txt Purchase_1.txt GMMOutput.txt
+    
+Three arguments must be provided in this order: product file, purchase file, output file. Sample input files are provided as `Product_1.txt` / `Product_2.txt` / `Product_3.txt` and `Purchase_1.txt` / `Purchase_2.txt` / `Purchase_3.txt`.
 
 ---
 
